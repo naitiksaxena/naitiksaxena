@@ -1,19 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋;I+am+Naitik+Saxena;Full+Stack+Developer" />
-</p>
-
-<h1 align="center" style="
-  background: linear-gradient(90deg,#ff00cc,#3333ff,#00ffff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-size: 45px;">
-  I am Naitik Saxena
-</h1>
-
-<p align="center">
-  🚀 Passionate Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner
-</p>
-
 <h1> 
   Hi 👋, I'm Naitik Saxena
 </h1>
