@@ -1,4 +1,4 @@
-<h1> 
+<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/f5918b68-f99c-44bf-a418-8911cbaa8324" /><h1> 
   Hi 👋, I'm Naitik Saxena
 </h1>
 
@@ -14,6 +14,8 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naitiksaxena&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ <img src="<img width="296" height="296" alt="image" src="https://github.com/user-attachments/assets/ad1ce617-cb3e-4670-a16c-22f6be40c348" />
+
 
 <!-- Snake Game Repo View -->
 <div align="center">
